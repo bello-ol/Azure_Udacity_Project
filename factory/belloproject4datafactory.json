@@ -1,0 +1,9 @@
+{
+	"name": "belloproject4datafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cfd202f8-4da1-43c2-bcb0-73bb35dc623c",
+		"tenantId": "cd6683a6-aa85-46cf-aeea-92d4a1477009"
+	}
+}
